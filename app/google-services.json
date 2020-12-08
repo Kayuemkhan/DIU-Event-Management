@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "282290191636",
+    "firebase_url": "https://diuems.firebaseio.com",
+    "project_id": "diuems",
+    "storage_bucket": "diuems.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282290191636:android:c88edae3479af156b29601",
+        "android_client_info": {
+          "package_name": "com.example.diuems"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282290191636-qd7dsrrphsuq3nngbbo0ve2626ahuack.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diuems",
+            "certificate_hash": "1c96b902e1f1f1d4beda1af4980d7a3cf1035452"
+          }
+        },
+        {
+          "client_id": "282290191636-mm8td9o3npqs00k41gne8s4apeg1vu2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3oBtmYR4ijfPJ8P6UDB_3b3WMCLGBAjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282290191636-mm8td9o3npqs00k41gne8s4apeg1vu2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
